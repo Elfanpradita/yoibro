@@ -32,7 +32,7 @@ Jalankan perintah berikut untuk meng-clone repository ini ke komputer atau serve
 
 ```bash
 git clone git@github.com:username/repository.git
-cd repository
+cd yoibro
 ```
 
 ### 2️⃣ Build dan Jalankan Docker
@@ -58,7 +58,7 @@ docker-compose down
 ### Masuk ke dalam Container
 
 ```bash
-docker exec -it sample bash
+docker exec -it pemweb bash
 ```
 
 ### Setup Laravel
@@ -100,9 +100,9 @@ Port default yang digunakan adalah **80**, jadi cukup akses langsung tanpa perlu
 📌 **Discord:** [https://discord.gg/gMb8bt5e](https://discord.gg/gMb8bt5e)\
 📌 **YouTube:** [@Elpun378](https://www.youtube.com/@Elpun378)
 
-**Happy Coding!** 🚀
-
-From Elpun also known as Elfan Tampan 😎
+From Elpun also known as Elfan Tampan 😎
 
 Tuhan Memberkati semoga sukses dalam segala urusan baik kita. Amin.
+
+**Happy Coding!** 🚀
 
